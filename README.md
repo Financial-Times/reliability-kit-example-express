@@ -5,7 +5,7 @@ This is an example [Express](https://expressjs.com/) application which illustrat
 
 All of the code for this example app is in [`index.js`](./index.js).
 
-> **Warning:**
+> **Warning**
 > It's important to remember that this app isn't an example of how to correctly set up a Financial Times Express application – it's used to illustrate how to integrate Reliability Kit into an express app with as little boilerplate code as possible.
 
 
