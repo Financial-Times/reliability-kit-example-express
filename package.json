@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/Financial-Times/reliability-kit-example-express.git"
   },
-  "homepage": "https://github.com/Financial-Times/reliability-kit-example-express/tree/main/examples/express#readme",
+  "homepage": "https://github.com/Financial-Times/reliability-kit-example-express#readme",
   "bugs": "https://github.com/Financial-Times/reliability-kit-example-express/issues",
   "license": "MIT",
   "engines": {

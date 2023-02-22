@@ -17,7 +17,7 @@ const registerCrashHandler = require('@dotcom-reliability-kit/crash-handler');
  * The earlier this is called in your app, the more likely it is to
  * catch errors.
  *
- * @see https://github.com/Financial-Times/dotcom-reliability-kit/blob/HEAD/packages/crash-handler
+ * @see https://github.com/Financial-Times/dotcom-reliability-kit/tree/main/packages/crash-handler#readme
  */
 registerCrashHandler();
 
