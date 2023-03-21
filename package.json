@@ -21,7 +21,7 @@
     "@dotcom-reliability-kit/crash-handler": "^1.1.2",
     "@dotcom-reliability-kit/errors": "^1.2.7",
     "@dotcom-reliability-kit/log-error": "^1.5.1",
-    "@dotcom-reliability-kit/middleware-log-errors": "^1.5.1",
+    "@dotcom-reliability-kit/middleware-log-errors": "^1.5.2",
     "@dotcom-reliability-kit/middleware-render-error-info": "^1.1.14",
     "express": "^4.18.2"
   }
