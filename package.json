@@ -18,7 +18,7 @@
     "start": "SYSTEM_CODE='$$$-no-bizops-system-code-$$$' node ."
   },
   "dependencies": {
-    "@dotcom-reliability-kit/crash-handler": "^1.1.2",
+    "@dotcom-reliability-kit/crash-handler": "^1.1.4",
     "@dotcom-reliability-kit/errors": "^1.3.0",
     "@dotcom-reliability-kit/log-error": "^1.5.4",
     "@dotcom-reliability-kit/middleware-log-errors": "^1.5.2",
