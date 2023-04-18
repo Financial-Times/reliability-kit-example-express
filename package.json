@@ -22,7 +22,7 @@
     "@dotcom-reliability-kit/errors": "^2.0.0",
     "@dotcom-reliability-kit/log-error": "^1.5.4",
     "@dotcom-reliability-kit/middleware-log-errors": "^2.0.0",
-    "@dotcom-reliability-kit/middleware-render-error-info": "^1.1.17",
+    "@dotcom-reliability-kit/middleware-render-error-info": "^2.0.0",
     "express": "^4.18.2"
   }
 }
