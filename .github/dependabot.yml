@@ -10,3 +10,15 @@ updates:
     commit-message:
       prefix: "fix:"
       prefix-development: "chore:"
+    groups:
+      development-dependencies:
+        dependency-type: "development"
+        update-types:
+          - "minor"
+          - "patch"
+      reliability-kit:
+        patterns:
+          - "@dotcom-reliability-kit/*"
+        update-types:
+          - "minor"
+          - "patch"
