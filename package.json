@@ -11,18 +11,22 @@
   "bugs": "https://github.com/Financial-Times/reliability-kit-example-express/issues",
   "license": "MIT",
   "engines": {
-    "node": "16.x || 18.x",
-    "npm": "7.x || 8.x || 9.x"
+    "node": "18.x || 20.x",
+    "npm": "8.x || 9.x || 10.x"
   },
   "scripts": {
     "start": "SYSTEM_CODE='$$$-no-bizops-system-code-$$$' node ."
   },
   "dependencies": {
-    "@dotcom-reliability-kit/crash-handler": "^3.0.9",
-    "@dotcom-reliability-kit/errors": "^2.2.0",
-    "@dotcom-reliability-kit/log-error": "^3.1.5",
-    "@dotcom-reliability-kit/middleware-log-errors": "^3.0.9",
-    "@dotcom-reliability-kit/middleware-render-error-info": "^4.1.1",
+    "@dotcom-reliability-kit/crash-handler": "^4.0.0",
+    "@dotcom-reliability-kit/errors": "^3.0.0",
+    "@dotcom-reliability-kit/log-error": "^4.0.0",
+    "@dotcom-reliability-kit/middleware-log-errors": "^4.0.0",
+    "@dotcom-reliability-kit/middleware-render-error-info": "^5.0.0",
     "express": "^4.18.2"
+  },
+  "volta": {
+    "node": "20.10.0",
+    "npm": "10.2.5"
   }
 }
