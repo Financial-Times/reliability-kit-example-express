@@ -18,11 +18,11 @@
     "start": "SYSTEM_CODE='$$$-no-bizops-system-code-$$$' node ."
   },
   "dependencies": {
-    "@dotcom-reliability-kit/crash-handler": "^4.0.1",
+    "@dotcom-reliability-kit/crash-handler": "^4.0.2",
     "@dotcom-reliability-kit/errors": "^3.0.1",
     "@dotcom-reliability-kit/log-error": "^4.0.2",
-    "@dotcom-reliability-kit/middleware-log-errors": "^4.0.1",
-    "@dotcom-reliability-kit/middleware-render-error-info": "^5.0.1",
+    "@dotcom-reliability-kit/middleware-log-errors": "^4.0.2",
+    "@dotcom-reliability-kit/middleware-render-error-info": "^5.0.2",
     "express": "^4.18.2"
   },
   "volta": {
