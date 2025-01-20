@@ -11,8 +11,7 @@
   "bugs": "https://github.com/Financial-Times/reliability-kit-example-express/issues",
   "license": "MIT",
   "engines": {
-    "node": "18.x || 20.x",
-    "npm": "8.x || 9.x || 10.x"
+    "node": "22.x"
   },
   "scripts": {
     "start": "SYSTEM_CODE='$$$-no-bizops-system-code-$$$' node ."
@@ -26,7 +25,6 @@
     "express": "^4.21.2"
   },
   "volta": {
-    "node": "20.10.0",
-    "npm": "10.2.5"
+    "node": "22.13.0"
   }
 }
