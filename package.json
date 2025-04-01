@@ -22,7 +22,7 @@
     "@dotcom-reliability-kit/log-error": "^5.0.0",
     "@dotcom-reliability-kit/middleware-log-errors": "^5.0.2",
     "@dotcom-reliability-kit/middleware-render-error-info": "^6.0.2",
-    "express": "^4.21.2"
+    "express": "^5.1.0"
   },
   "volta": {
     "node": "22.13.0"
